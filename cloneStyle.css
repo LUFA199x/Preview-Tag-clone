@@ -1,0 +1,33 @@
+.all {
+  background-color: rgba(99, 70, 230, 0.466);
+  width: 65%;
+  line-height: 20px;
+  margin: 150px 250px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.foretext {
+  width: 250px;
+}
+
+.highlights {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  justify-content: space-between;
+}
+
+.image {
+  width: 65%;
+  line-height: 12px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+img {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
